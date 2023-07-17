@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,V as a}from"./chunks/framework.8f8690af.js";const b=JSON.parse('{"title":"Bootware","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md","lastUpdated":null}'),r={name:"index.md"},n=a("",20),i=[n];function s(l,f,c,u,h,d){return t(),o("div",null,i)}const w=e(r,[["render",s]]);export{b as __pageData,w as default};
